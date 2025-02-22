@@ -1,6 +1,6 @@
 {
-  "name": "mathos",
-  "version": "0.0.1",
+  "name": "math-os",
+  "version": "0.0.2",
   "description": "Mathematical Operation Services",
   "main": "index.js",
   "scripts": {
