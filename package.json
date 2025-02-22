@@ -11,6 +11,10 @@
     "lcm",
     "hcf"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/layeeque-md/mathos.git"
+  },
   "author": "Layeeque Md",
   "license": "MIT"
 }
