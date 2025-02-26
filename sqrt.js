@@ -11,6 +11,5 @@ function sqrt(a){
     }
     return result +1;
 }
-console.log(sqrt(9)); // 
 
 module.exports = sqrt;
