@@ -9,8 +9,9 @@
   "keywords": [
     "gcd",
     "lcm",
-    "hcf"
-  ],
+    "hcf", "log", "natural log",
+     "sqrt", "square root", "Perfect square"
+     ],
   "repository": {
     "type": "git",
     "url": "https://github.com/layeeque-md/mathos.git"
