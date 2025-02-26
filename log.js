@@ -1,4 +1,4 @@
-function log(a) {
+ function log(a) {
     if (a <= 0) {
         throw new Error("Input must be a positive number");
     }
