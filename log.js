@@ -6,7 +6,7 @@
         return 0;
     }
 
-    const LN2 = 0.6931471805;
+    const LN2 = 0.6931471805599453;
     let intPart = 0;
 
     while (a >= 2) {
